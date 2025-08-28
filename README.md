@@ -1,1 +1,1 @@
-# AI-Powered-Sudoku-Solver-Generator-C-
+AI-Powered-Sudoku-Solver-Generator
